@@ -1,0 +1,10 @@
+[22-Jul-2017 21:00:19 Asia/Ho_Chi_Minh] PHP Warning:  fopen(data.txt): failed to open stream: No such file or directory in /home/toitulam/public_html/index.php on line 18
+[22-Jul-2017 21:00:19 Asia/Ho_Chi_Minh] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/toitulam/public_html/index.php on line 19
+[22-Jul-2017 21:00:19 Asia/Ho_Chi_Minh] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/toitulam/public_html/index.php on line 20
+[22-Jul-2017 21:00:19 Asia/Ho_Chi_Minh] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/toitulam/public_html/index.php on line 22
+[28-Aug-2017 20:29:11 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'mysql06.dotvndns.vn:3306' (2) in /home/toitulam/public_html/index.php on line 8
+[28-Aug-2017 20:30:28 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected '<' in /home/toitulam/public_html/index.php on line 2
+[28-Aug-2017 20:30:30 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected '<' in /home/toitulam/public_html/index.php on line 2
+[28-Aug-2017 20:30:31 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected '<' in /home/toitulam/public_html/index.php on line 2
+[28-Aug-2017 20:30:31 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected '<' in /home/toitulam/public_html/index.php on line 2
+[28-Aug-2017 20:30:32 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected '<' in /home/toitulam/public_html/index.php on line 2

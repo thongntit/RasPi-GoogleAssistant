@@ -1,0 +1,180 @@
+[14-Nov-2017 15:54:52 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected '$equip' (T_VARIABLE) in /home/toitulam/public_html/thesis/updatevalue.php on line 6
+[14-Nov-2017 15:55:57 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/toitulam/public_html/thesis/updatevalue.php on line 7
+[14-Nov-2017 15:56:18 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: checkusr in /home/toitulam/public_html/thesis/updatevalue.php on line 7
+[14-Nov-2017 15:56:18 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_query(): Empty query in /home/toitulam/public_html/thesis/updatevalue.php on line 7
+[14-Nov-2017 15:56:55 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: checkusr in /home/toitulam/public_html/thesis/updatevalue.php on line 7
+[14-Nov-2017 15:56:55 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_query(): Empty query in /home/toitulam/public_html/thesis/updatevalue.php on line 7
+[14-Nov-2017 15:57:54 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected '$equip' (T_VARIABLE) in /home/toitulam/public_html/thesis/updatevalue.php on line 6
+[14-Nov-2017 15:58:17 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected '$equip' (T_VARIABLE) in /home/toitulam/public_html/thesis/updatevalue.php on line 6
+[14-Nov-2017 15:58:39 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected '$equip' (T_VARIABLE) in /home/toitulam/public_html/thesis/updatevalue.php on line 6
+[14-Nov-2017 16:08:04 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/toitulam/public_html/thesis/showvalue.php on line 4
+[14-Nov-2017 16:08:23 Asia/Ho_Chi_Minh] PHP Recoverable fatal error:  Object of class mysqli_result could not be converted to string in /home/toitulam/public_html/thesis/showvalue.php on line 5
+[14-Nov-2017 16:08:24 Asia/Ho_Chi_Minh] PHP Recoverable fatal error:  Object of class mysqli_result could not be converted to string in /home/toitulam/public_html/thesis/showvalue.php on line 5
+[14-Nov-2017 16:09:17 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/toitulam/public_html/thesis/showvalue.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/toitulam/public_html/thesis/showvalue.php on line 5
+[14-Nov-2017 16:10:02 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/toitulam/public_html/thesis/showvalue.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/toitulam/public_html/thesis/showvalue.php on line 5
+[14-Nov-2017 16:12:13 Asia/Ho_Chi_Minh] PHP Notice:  Undefined offset: 0 in /home/toitulam/public_html/thesis/showvalue.php on line 6
+[14-Nov-2017 16:13:05 Asia/Ho_Chi_Minh] PHP Notice:  Array to string conversion in /home/toitulam/public_html/thesis/showvalue.php on line 6
+[14-Nov-2017 16:15:17 Asia/Ho_Chi_Minh] PHP Notice:  Undefined offset: 0 in /home/toitulam/public_html/thesis/showvalue.php on line 7
+[14-Nov-2017 16:15:18 Asia/Ho_Chi_Minh] PHP Notice:  Undefined offset: 0 in /home/toitulam/public_html/thesis/showvalue.php on line 7
+[14-Nov-2017 16:15:18 Asia/Ho_Chi_Minh] PHP Notice:  Undefined offset: 0 in /home/toitulam/public_html/thesis/showvalue.php on line 7
+[14-Nov-2017 16:15:19 Asia/Ho_Chi_Minh] PHP Notice:  Undefined offset: 0 in /home/toitulam/public_html/thesis/showvalue.php on line 7
+[14-Nov-2017 16:15:19 Asia/Ho_Chi_Minh] PHP Notice:  Undefined offset: 0 in /home/toitulam/public_html/thesis/showvalue.php on line 7
+[14-Nov-2017 16:15:19 Asia/Ho_Chi_Minh] PHP Notice:  Undefined offset: 0 in /home/toitulam/public_html/thesis/showvalue.php on line 7
+[14-Nov-2017 16:15:20 Asia/Ho_Chi_Minh] PHP Notice:  Undefined offset: 0 in /home/toitulam/public_html/thesis/showvalue.php on line 7
+[14-Nov-2017 16:15:20 Asia/Ho_Chi_Minh] PHP Notice:  Undefined offset: 0 in /home/toitulam/public_html/thesis/showvalue.php on line 7
+[14-Nov-2017 16:15:20 Asia/Ho_Chi_Minh] PHP Notice:  Undefined offset: 0 in /home/toitulam/public_html/thesis/showvalue.php on line 7
+[14-Nov-2017 20:21:21 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: equip in /home/toitulam/public_html/thesis/updatevalue.php on line 3
+[15-Nov-2017 10:04:50 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/toitulam/public_html/thesis/showvalue.php on line 5
+[15-Nov-2017 10:06:57 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: equip in /home/toitulam/public_html/thesis/showvalue.php on line 3
+[15-Nov-2017 10:32:40 Asia/Ho_Chi_Minh] PHP Warning:  A non-numeric value encountered in /home/toitulam/public_html/thesis/showvalue.php on line 35
+[15-Nov-2017 10:32:40 Asia/Ho_Chi_Minh] PHP Warning:  A non-numeric value encountered in /home/toitulam/public_html/thesis/showvalue.php on line 35
+[15-Nov-2017 10:32:40 Asia/Ho_Chi_Minh] PHP Warning:  A non-numeric value encountered in /home/toitulam/public_html/thesis/showvalue.php on line 36
+[15-Nov-2017 10:32:40 Asia/Ho_Chi_Minh] PHP Warning:  A non-numeric value encountered in /home/toitulam/public_html/thesis/showvalue.php on line 36
+[15-Nov-2017 10:32:40 Asia/Ho_Chi_Minh] PHP Warning:  A non-numeric value encountered in /home/toitulam/public_html/thesis/showvalue.php on line 35
+[15-Nov-2017 10:32:40 Asia/Ho_Chi_Minh] PHP Warning:  A non-numeric value encountered in /home/toitulam/public_html/thesis/showvalue.php on line 35
+[15-Nov-2017 10:32:40 Asia/Ho_Chi_Minh] PHP Warning:  A non-numeric value encountered in /home/toitulam/public_html/thesis/showvalue.php on line 36
+[15-Nov-2017 10:32:40 Asia/Ho_Chi_Minh] PHP Warning:  A non-numeric value encountered in /home/toitulam/public_html/thesis/showvalue.php on line 36
+[15-Nov-2017 10:32:40 Asia/Ho_Chi_Minh] PHP Warning:  A non-numeric value encountered in /home/toitulam/public_html/thesis/showvalue.php on line 35
+[15-Nov-2017 10:32:40 Asia/Ho_Chi_Minh] PHP Warning:  A non-numeric value encountered in /home/toitulam/public_html/thesis/showvalue.php on line 35
+[15-Nov-2017 10:32:40 Asia/Ho_Chi_Minh] PHP Warning:  A non-numeric value encountered in /home/toitulam/public_html/thesis/showvalue.php on line 36
+[15-Nov-2017 10:32:40 Asia/Ho_Chi_Minh] PHP Warning:  A non-numeric value encountered in /home/toitulam/public_html/thesis/showvalue.php on line 36
+[15-Nov-2017 10:32:40 Asia/Ho_Chi_Minh] PHP Warning:  A non-numeric value encountered in /home/toitulam/public_html/thesis/showvalue.php on line 35
+[15-Nov-2017 10:32:40 Asia/Ho_Chi_Minh] PHP Warning:  A non-numeric value encountered in /home/toitulam/public_html/thesis/showvalue.php on line 35
+[15-Nov-2017 10:32:40 Asia/Ho_Chi_Minh] PHP Warning:  A non-numeric value encountered in /home/toitulam/public_html/thesis/showvalue.php on line 36
+[15-Nov-2017 10:32:40 Asia/Ho_Chi_Minh] PHP Warning:  A non-numeric value encountered in /home/toitulam/public_html/thesis/showvalue.php on line 36
+[15-Nov-2017 10:32:40 Asia/Ho_Chi_Minh] PHP Warning:  A non-numeric value encountered in /home/toitulam/public_html/thesis/showvalue.php on line 35
+[15-Nov-2017 10:32:40 Asia/Ho_Chi_Minh] PHP Warning:  A non-numeric value encountered in /home/toitulam/public_html/thesis/showvalue.php on line 35
+[15-Nov-2017 10:32:40 Asia/Ho_Chi_Minh] PHP Warning:  A non-numeric value encountered in /home/toitulam/public_html/thesis/showvalue.php on line 36
+[15-Nov-2017 10:32:40 Asia/Ho_Chi_Minh] PHP Warning:  A non-numeric value encountered in /home/toitulam/public_html/thesis/showvalue.php on line 36
+[15-Nov-2017 10:32:40 Asia/Ho_Chi_Minh] PHP Warning:  A non-numeric value encountered in /home/toitulam/public_html/thesis/showvalue.php on line 35
+[15-Nov-2017 10:32:40 Asia/Ho_Chi_Minh] PHP Warning:  A non-numeric value encountered in /home/toitulam/public_html/thesis/showvalue.php on line 35
+[15-Nov-2017 10:32:40 Asia/Ho_Chi_Minh] PHP Warning:  A non-numeric value encountered in /home/toitulam/public_html/thesis/showvalue.php on line 36
+[15-Nov-2017 10:32:40 Asia/Ho_Chi_Minh] PHP Warning:  A non-numeric value encountered in /home/toitulam/public_html/thesis/showvalue.php on line 36
+[15-Nov-2017 10:32:40 Asia/Ho_Chi_Minh] PHP Warning:  A non-numeric value encountered in /home/toitulam/public_html/thesis/showvalue.php on line 35
+[15-Nov-2017 10:32:40 Asia/Ho_Chi_Minh] PHP Warning:  A non-numeric value encountered in /home/toitulam/public_html/thesis/showvalue.php on line 35
+[15-Nov-2017 10:32:40 Asia/Ho_Chi_Minh] PHP Warning:  A non-numeric value encountered in /home/toitulam/public_html/thesis/showvalue.php on line 36
+[15-Nov-2017 10:32:40 Asia/Ho_Chi_Minh] PHP Warning:  A non-numeric value encountered in /home/toitulam/public_html/thesis/showvalue.php on line 36
+[15-Nov-2017 10:32:40 Asia/Ho_Chi_Minh] PHP Warning:  A non-numeric value encountered in /home/toitulam/public_html/thesis/showvalue.php on line 35
+[15-Nov-2017 10:32:40 Asia/Ho_Chi_Minh] PHP Warning:  A non-numeric value encountered in /home/toitulam/public_html/thesis/showvalue.php on line 35
+[15-Nov-2017 10:32:40 Asia/Ho_Chi_Minh] PHP Warning:  A non-numeric value encountered in /home/toitulam/public_html/thesis/showvalue.php on line 36
+[15-Nov-2017 10:32:40 Asia/Ho_Chi_Minh] PHP Warning:  A non-numeric value encountered in /home/toitulam/public_html/thesis/showvalue.php on line 36
+[15-Nov-2017 10:32:40 Asia/Ho_Chi_Minh] PHP Warning:  A non-numeric value encountered in /home/toitulam/public_html/thesis/showvalue.php on line 35
+[15-Nov-2017 10:32:40 Asia/Ho_Chi_Minh] PHP Warning:  A non-numeric value encountered in /home/toitulam/public_html/thesis/showvalue.php on line 35
+[15-Nov-2017 10:32:40 Asia/Ho_Chi_Minh] PHP Warning:  A non-numeric value encountered in /home/toitulam/public_html/thesis/showvalue.php on line 36
+[15-Nov-2017 10:32:40 Asia/Ho_Chi_Minh] PHP Warning:  A non-numeric value encountered in /home/toitulam/public_html/thesis/showvalue.php on line 36
+[15-Nov-2017 10:32:40 Asia/Ho_Chi_Minh] PHP Warning:  A non-numeric value encountered in /home/toitulam/public_html/thesis/showvalue.php on line 35
+[15-Nov-2017 10:32:40 Asia/Ho_Chi_Minh] PHP Warning:  A non-numeric value encountered in /home/toitulam/public_html/thesis/showvalue.php on line 35
+[15-Nov-2017 10:32:40 Asia/Ho_Chi_Minh] PHP Warning:  A non-numeric value encountered in /home/toitulam/public_html/thesis/showvalue.php on line 36
+[15-Nov-2017 10:32:40 Asia/Ho_Chi_Minh] PHP Warning:  A non-numeric value encountered in /home/toitulam/public_html/thesis/showvalue.php on line 36
+[15-Nov-2017 10:32:40 Asia/Ho_Chi_Minh] PHP Warning:  A non-numeric value encountered in /home/toitulam/public_html/thesis/showvalue.php on line 35
+[15-Nov-2017 10:32:40 Asia/Ho_Chi_Minh] PHP Warning:  A non-numeric value encountered in /home/toitulam/public_html/thesis/showvalue.php on line 35
+[15-Nov-2017 10:32:40 Asia/Ho_Chi_Minh] PHP Warning:  A non-numeric value encountered in /home/toitulam/public_html/thesis/showvalue.php on line 36
+[15-Nov-2017 10:32:40 Asia/Ho_Chi_Minh] PHP Warning:  A non-numeric value encountered in /home/toitulam/public_html/thesis/showvalue.php on line 36
+[15-Nov-2017 10:33:22 Asia/Ho_Chi_Minh] PHP Warning:  A non-numeric value encountered in /home/toitulam/public_html/thesis/showvalue.php on line 35
+[15-Nov-2017 10:33:22 Asia/Ho_Chi_Minh] PHP Warning:  A non-numeric value encountered in /home/toitulam/public_html/thesis/showvalue.php on line 35
+[15-Nov-2017 10:33:22 Asia/Ho_Chi_Minh] PHP Warning:  A non-numeric value encountered in /home/toitulam/public_html/thesis/showvalue.php on line 36
+[15-Nov-2017 10:33:22 Asia/Ho_Chi_Minh] PHP Warning:  A non-numeric value encountered in /home/toitulam/public_html/thesis/showvalue.php on line 36
+[15-Nov-2017 10:33:22 Asia/Ho_Chi_Minh] PHP Warning:  A non-numeric value encountered in /home/toitulam/public_html/thesis/showvalue.php on line 35
+[15-Nov-2017 10:33:22 Asia/Ho_Chi_Minh] PHP Warning:  A non-numeric value encountered in /home/toitulam/public_html/thesis/showvalue.php on line 35
+[15-Nov-2017 10:33:22 Asia/Ho_Chi_Minh] PHP Warning:  A non-numeric value encountered in /home/toitulam/public_html/thesis/showvalue.php on line 36
+[15-Nov-2017 10:33:22 Asia/Ho_Chi_Minh] PHP Warning:  A non-numeric value encountered in /home/toitulam/public_html/thesis/showvalue.php on line 36
+[15-Nov-2017 10:33:22 Asia/Ho_Chi_Minh] PHP Warning:  A non-numeric value encountered in /home/toitulam/public_html/thesis/showvalue.php on line 35
+[15-Nov-2017 10:33:22 Asia/Ho_Chi_Minh] PHP Warning:  A non-numeric value encountered in /home/toitulam/public_html/thesis/showvalue.php on line 35
+[15-Nov-2017 10:33:22 Asia/Ho_Chi_Minh] PHP Warning:  A non-numeric value encountered in /home/toitulam/public_html/thesis/showvalue.php on line 36
+[15-Nov-2017 10:33:22 Asia/Ho_Chi_Minh] PHP Warning:  A non-numeric value encountered in /home/toitulam/public_html/thesis/showvalue.php on line 36
+[15-Nov-2017 10:33:22 Asia/Ho_Chi_Minh] PHP Warning:  A non-numeric value encountered in /home/toitulam/public_html/thesis/showvalue.php on line 35
+[15-Nov-2017 10:33:22 Asia/Ho_Chi_Minh] PHP Warning:  A non-numeric value encountered in /home/toitulam/public_html/thesis/showvalue.php on line 35
+[15-Nov-2017 10:33:22 Asia/Ho_Chi_Minh] PHP Warning:  A non-numeric value encountered in /home/toitulam/public_html/thesis/showvalue.php on line 36
+[15-Nov-2017 10:33:22 Asia/Ho_Chi_Minh] PHP Warning:  A non-numeric value encountered in /home/toitulam/public_html/thesis/showvalue.php on line 36
+[15-Nov-2017 10:33:22 Asia/Ho_Chi_Minh] PHP Warning:  A non-numeric value encountered in /home/toitulam/public_html/thesis/showvalue.php on line 35
+[15-Nov-2017 10:33:22 Asia/Ho_Chi_Minh] PHP Warning:  A non-numeric value encountered in /home/toitulam/public_html/thesis/showvalue.php on line 35
+[15-Nov-2017 10:33:22 Asia/Ho_Chi_Minh] PHP Warning:  A non-numeric value encountered in /home/toitulam/public_html/thesis/showvalue.php on line 36
+[15-Nov-2017 10:33:22 Asia/Ho_Chi_Minh] PHP Warning:  A non-numeric value encountered in /home/toitulam/public_html/thesis/showvalue.php on line 36
+[15-Nov-2017 10:33:22 Asia/Ho_Chi_Minh] PHP Warning:  A non-numeric value encountered in /home/toitulam/public_html/thesis/showvalue.php on line 35
+[15-Nov-2017 10:33:22 Asia/Ho_Chi_Minh] PHP Warning:  A non-numeric value encountered in /home/toitulam/public_html/thesis/showvalue.php on line 35
+[15-Nov-2017 10:33:22 Asia/Ho_Chi_Minh] PHP Warning:  A non-numeric value encountered in /home/toitulam/public_html/thesis/showvalue.php on line 36
+[15-Nov-2017 10:33:22 Asia/Ho_Chi_Minh] PHP Warning:  A non-numeric value encountered in /home/toitulam/public_html/thesis/showvalue.php on line 36
+[15-Nov-2017 10:33:22 Asia/Ho_Chi_Minh] PHP Warning:  A non-numeric value encountered in /home/toitulam/public_html/thesis/showvalue.php on line 35
+[15-Nov-2017 10:33:22 Asia/Ho_Chi_Minh] PHP Warning:  A non-numeric value encountered in /home/toitulam/public_html/thesis/showvalue.php on line 35
+[15-Nov-2017 10:33:22 Asia/Ho_Chi_Minh] PHP Warning:  A non-numeric value encountered in /home/toitulam/public_html/thesis/showvalue.php on line 36
+[15-Nov-2017 10:33:22 Asia/Ho_Chi_Minh] PHP Warning:  A non-numeric value encountered in /home/toitulam/public_html/thesis/showvalue.php on line 36
+[15-Nov-2017 10:33:22 Asia/Ho_Chi_Minh] PHP Warning:  A non-numeric value encountered in /home/toitulam/public_html/thesis/showvalue.php on line 35
+[15-Nov-2017 10:33:22 Asia/Ho_Chi_Minh] PHP Warning:  A non-numeric value encountered in /home/toitulam/public_html/thesis/showvalue.php on line 35
+[15-Nov-2017 10:33:22 Asia/Ho_Chi_Minh] PHP Warning:  A non-numeric value encountered in /home/toitulam/public_html/thesis/showvalue.php on line 36
+[15-Nov-2017 10:33:22 Asia/Ho_Chi_Minh] PHP Warning:  A non-numeric value encountered in /home/toitulam/public_html/thesis/showvalue.php on line 36
+[15-Nov-2017 10:33:22 Asia/Ho_Chi_Minh] PHP Warning:  A non-numeric value encountered in /home/toitulam/public_html/thesis/showvalue.php on line 35
+[15-Nov-2017 10:33:22 Asia/Ho_Chi_Minh] PHP Warning:  A non-numeric value encountered in /home/toitulam/public_html/thesis/showvalue.php on line 35
+[15-Nov-2017 10:33:22 Asia/Ho_Chi_Minh] PHP Warning:  A non-numeric value encountered in /home/toitulam/public_html/thesis/showvalue.php on line 36
+[15-Nov-2017 10:33:22 Asia/Ho_Chi_Minh] PHP Warning:  A non-numeric value encountered in /home/toitulam/public_html/thesis/showvalue.php on line 36
+[15-Nov-2017 10:33:22 Asia/Ho_Chi_Minh] PHP Warning:  A non-numeric value encountered in /home/toitulam/public_html/thesis/showvalue.php on line 35
+[15-Nov-2017 10:33:22 Asia/Ho_Chi_Minh] PHP Warning:  A non-numeric value encountered in /home/toitulam/public_html/thesis/showvalue.php on line 35
+[15-Nov-2017 10:33:22 Asia/Ho_Chi_Minh] PHP Warning:  A non-numeric value encountered in /home/toitulam/public_html/thesis/showvalue.php on line 36
+[15-Nov-2017 10:33:22 Asia/Ho_Chi_Minh] PHP Warning:  A non-numeric value encountered in /home/toitulam/public_html/thesis/showvalue.php on line 36
+[15-Nov-2017 10:33:22 Asia/Ho_Chi_Minh] PHP Warning:  A non-numeric value encountered in /home/toitulam/public_html/thesis/showvalue.php on line 35
+[15-Nov-2017 10:33:22 Asia/Ho_Chi_Minh] PHP Warning:  A non-numeric value encountered in /home/toitulam/public_html/thesis/showvalue.php on line 35
+[15-Nov-2017 10:33:22 Asia/Ho_Chi_Minh] PHP Warning:  A non-numeric value encountered in /home/toitulam/public_html/thesis/showvalue.php on line 36
+[15-Nov-2017 10:33:22 Asia/Ho_Chi_Minh] PHP Warning:  A non-numeric value encountered in /home/toitulam/public_html/thesis/showvalue.php on line 36
+[15-Nov-2017 10:35:17 Asia/Ho_Chi_Minh] PHP Warning:  A non-numeric value encountered in /home/toitulam/public_html/thesis/showvalue.php on line 37
+[15-Nov-2017 10:35:17 Asia/Ho_Chi_Minh] PHP Warning:  A non-numeric value encountered in /home/toitulam/public_html/thesis/showvalue.php on line 37
+[15-Nov-2017 10:35:17 Asia/Ho_Chi_Minh] PHP Warning:  A non-numeric value encountered in /home/toitulam/public_html/thesis/showvalue.php on line 38
+[15-Nov-2017 10:35:17 Asia/Ho_Chi_Minh] PHP Warning:  A non-numeric value encountered in /home/toitulam/public_html/thesis/showvalue.php on line 38
+[15-Nov-2017 10:35:17 Asia/Ho_Chi_Minh] PHP Warning:  A non-numeric value encountered in /home/toitulam/public_html/thesis/showvalue.php on line 37
+[15-Nov-2017 10:35:17 Asia/Ho_Chi_Minh] PHP Warning:  A non-numeric value encountered in /home/toitulam/public_html/thesis/showvalue.php on line 37
+[15-Nov-2017 10:35:17 Asia/Ho_Chi_Minh] PHP Warning:  A non-numeric value encountered in /home/toitulam/public_html/thesis/showvalue.php on line 38
+[15-Nov-2017 10:35:17 Asia/Ho_Chi_Minh] PHP Warning:  A non-numeric value encountered in /home/toitulam/public_html/thesis/showvalue.php on line 38
+[15-Nov-2017 10:35:17 Asia/Ho_Chi_Minh] PHP Warning:  A non-numeric value encountered in /home/toitulam/public_html/thesis/showvalue.php on line 37
+[15-Nov-2017 10:35:17 Asia/Ho_Chi_Minh] PHP Warning:  A non-numeric value encountered in /home/toitulam/public_html/thesis/showvalue.php on line 37
+[15-Nov-2017 10:35:17 Asia/Ho_Chi_Minh] PHP Warning:  A non-numeric value encountered in /home/toitulam/public_html/thesis/showvalue.php on line 38
+[15-Nov-2017 10:35:17 Asia/Ho_Chi_Minh] PHP Warning:  A non-numeric value encountered in /home/toitulam/public_html/thesis/showvalue.php on line 38
+[15-Nov-2017 10:35:17 Asia/Ho_Chi_Minh] PHP Warning:  A non-numeric value encountered in /home/toitulam/public_html/thesis/showvalue.php on line 37
+[15-Nov-2017 10:35:17 Asia/Ho_Chi_Minh] PHP Warning:  A non-numeric value encountered in /home/toitulam/public_html/thesis/showvalue.php on line 37
+[15-Nov-2017 10:35:17 Asia/Ho_Chi_Minh] PHP Warning:  A non-numeric value encountered in /home/toitulam/public_html/thesis/showvalue.php on line 38
+[15-Nov-2017 10:35:17 Asia/Ho_Chi_Minh] PHP Warning:  A non-numeric value encountered in /home/toitulam/public_html/thesis/showvalue.php on line 38
+[15-Nov-2017 10:35:17 Asia/Ho_Chi_Minh] PHP Warning:  A non-numeric value encountered in /home/toitulam/public_html/thesis/showvalue.php on line 37
+[15-Nov-2017 10:35:17 Asia/Ho_Chi_Minh] PHP Warning:  A non-numeric value encountered in /home/toitulam/public_html/thesis/showvalue.php on line 37
+[15-Nov-2017 10:35:17 Asia/Ho_Chi_Minh] PHP Warning:  A non-numeric value encountered in /home/toitulam/public_html/thesis/showvalue.php on line 38
+[15-Nov-2017 10:35:17 Asia/Ho_Chi_Minh] PHP Warning:  A non-numeric value encountered in /home/toitulam/public_html/thesis/showvalue.php on line 38
+[15-Nov-2017 10:35:17 Asia/Ho_Chi_Minh] PHP Warning:  A non-numeric value encountered in /home/toitulam/public_html/thesis/showvalue.php on line 37
+[15-Nov-2017 10:35:17 Asia/Ho_Chi_Minh] PHP Warning:  A non-numeric value encountered in /home/toitulam/public_html/thesis/showvalue.php on line 37
+[15-Nov-2017 10:35:17 Asia/Ho_Chi_Minh] PHP Warning:  A non-numeric value encountered in /home/toitulam/public_html/thesis/showvalue.php on line 38
+[15-Nov-2017 10:35:17 Asia/Ho_Chi_Minh] PHP Warning:  A non-numeric value encountered in /home/toitulam/public_html/thesis/showvalue.php on line 38
+[15-Nov-2017 10:35:17 Asia/Ho_Chi_Minh] PHP Warning:  A non-numeric value encountered in /home/toitulam/public_html/thesis/showvalue.php on line 37
+[15-Nov-2017 10:35:17 Asia/Ho_Chi_Minh] PHP Warning:  A non-numeric value encountered in /home/toitulam/public_html/thesis/showvalue.php on line 37
+[15-Nov-2017 10:35:17 Asia/Ho_Chi_Minh] PHP Warning:  A non-numeric value encountered in /home/toitulam/public_html/thesis/showvalue.php on line 38
+[15-Nov-2017 10:35:17 Asia/Ho_Chi_Minh] PHP Warning:  A non-numeric value encountered in /home/toitulam/public_html/thesis/showvalue.php on line 38
+[15-Nov-2017 10:35:17 Asia/Ho_Chi_Minh] PHP Warning:  A non-numeric value encountered in /home/toitulam/public_html/thesis/showvalue.php on line 37
+[15-Nov-2017 10:35:17 Asia/Ho_Chi_Minh] PHP Warning:  A non-numeric value encountered in /home/toitulam/public_html/thesis/showvalue.php on line 37
+[15-Nov-2017 10:35:17 Asia/Ho_Chi_Minh] PHP Warning:  A non-numeric value encountered in /home/toitulam/public_html/thesis/showvalue.php on line 38
+[15-Nov-2017 10:35:17 Asia/Ho_Chi_Minh] PHP Warning:  A non-numeric value encountered in /home/toitulam/public_html/thesis/showvalue.php on line 38
+[15-Nov-2017 10:35:17 Asia/Ho_Chi_Minh] PHP Warning:  A non-numeric value encountered in /home/toitulam/public_html/thesis/showvalue.php on line 37
+[15-Nov-2017 10:35:17 Asia/Ho_Chi_Minh] PHP Warning:  A non-numeric value encountered in /home/toitulam/public_html/thesis/showvalue.php on line 37
+[15-Nov-2017 10:35:17 Asia/Ho_Chi_Minh] PHP Warning:  A non-numeric value encountered in /home/toitulam/public_html/thesis/showvalue.php on line 38
+[15-Nov-2017 10:35:17 Asia/Ho_Chi_Minh] PHP Warning:  A non-numeric value encountered in /home/toitulam/public_html/thesis/showvalue.php on line 38
+[15-Nov-2017 10:35:17 Asia/Ho_Chi_Minh] PHP Warning:  A non-numeric value encountered in /home/toitulam/public_html/thesis/showvalue.php on line 37
+[15-Nov-2017 10:35:17 Asia/Ho_Chi_Minh] PHP Warning:  A non-numeric value encountered in /home/toitulam/public_html/thesis/showvalue.php on line 37
+[15-Nov-2017 10:35:17 Asia/Ho_Chi_Minh] PHP Warning:  A non-numeric value encountered in /home/toitulam/public_html/thesis/showvalue.php on line 38
+[15-Nov-2017 10:35:17 Asia/Ho_Chi_Minh] PHP Warning:  A non-numeric value encountered in /home/toitulam/public_html/thesis/showvalue.php on line 38
+[15-Nov-2017 10:35:17 Asia/Ho_Chi_Minh] PHP Warning:  A non-numeric value encountered in /home/toitulam/public_html/thesis/showvalue.php on line 37
+[15-Nov-2017 10:35:17 Asia/Ho_Chi_Minh] PHP Warning:  A non-numeric value encountered in /home/toitulam/public_html/thesis/showvalue.php on line 37
+[15-Nov-2017 10:35:17 Asia/Ho_Chi_Minh] PHP Warning:  A non-numeric value encountered in /home/toitulam/public_html/thesis/showvalue.php on line 38
+[15-Nov-2017 10:35:17 Asia/Ho_Chi_Minh] PHP Warning:  A non-numeric value encountered in /home/toitulam/public_html/thesis/showvalue.php on line 38
+[15-Nov-2017 10:35:52 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/toitulam/public_html/thesis/showvalue.php on line 37
+[15-Nov-2017 10:44:15 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected end of file in /home/toitulam/public_html/thesis/showvalue.php on line 63
+[15-Nov-2017 11:03:57 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/toitulam/public_html/thesis/index.php:68
+Stack trace:
+#0 {main}
+  thrown in /home/toitulam/public_html/thesis/index.php on line 68
+[15-Nov-2017 11:04:02 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/toitulam/public_html/thesis/index.php:68
+Stack trace:
+#0 {main}
+  thrown in /home/toitulam/public_html/thesis/index.php on line 68
+[15-Nov-2017 11:05:59 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/toitulam/public_html/thesis/index.php:70
+Stack trace:
+#0 {main}
+  thrown in /home/toitulam/public_html/thesis/index.php on line 70

@@ -1,0 +1,157 @@
+#wrapper {
+    width:900px;
+    margin: auto;
+}
+#logo {
+    width: 150px;
+    height: 50px;
+    float: left;
+}
+
+#search_box {
+    width: 600px;
+    height: 50px;
+    float: left;
+}
+#search_input {
+    width: 400px;
+    height: 35px;
+    margin-top: 5px;
+    margin-left: 5px;
+    border: 1px solid gray;
+    border-radius: 5px;
+    padding-left: 10px;
+}
+#search_button {
+    width: 80px;
+    height: 35px;
+    margin-top: 5px;
+    margin-right: 10px;
+    float: left;
+}
+
+#login_box {
+    width: 150px;
+    height: 50px;
+    float: left;    
+    text-align: center   
+}
+#login_dropdown {
+    border: 2px solid black;
+    background-color: white;
+    border-radius: 5px;
+    width: 200px;
+    padding-bottom: 5px;
+
+}
+.dropdown-content input {
+    margin-top: 5px;
+}
+
+
+#banner {
+    width: 900px;
+    height: 100px;
+    border: 2px  solid black;
+    border-radius: 5px;
+    clear: both;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 40px;
+    text-align: center;
+}
+#menu_left {
+    width: 200px;
+    height: 620px;
+    float: left;
+    text-align: center;
+}
+
+.menu {
+    height: 20px;
+    background-color: blue;
+    border-radius: 5px;
+    color: white;
+    border: 2px solid blue;
+    margin-top: 10px;
+    padding-top: 10
+}
+
+.menu:hover {
+    background-color: #0303A7;
+}
+
+.sub_menu a:link {
+
+    background-color: white;
+    display: block;
+}
+
+#contents {
+    width: 500px;
+    height: 620px;
+    background-color: orchid;
+    float: left;
+}
+
+#menu_right {
+    width: 200px;
+    height: 620px;
+    background-color: aquamarine;
+    float: left;
+}
+#hot_news {
+    width: 150px;
+    height: 150px;
+    background-color: whitesmoke;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+#events {
+    width: 150px;
+    height: 150px;
+    background-color: whitesmoke;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+#new_products {
+    width: 150px;
+    height: 150px;
+    background-color: whitesmoke;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+#footer {
+    width: 900px;
+    height: 100px;
+    background-color: #711818;
+    clear: both;
+}
+#news1 {
+    width: 400px;
+    height: 180px;
+    background-color: white;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+#news2 {
+    width: 400px;
+    height: 180px;
+    background-color: white;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+#news3 {
+    width: 400px;
+    height: 180px;
+    background-color: white;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+img {
+    max-width: 100%;
+    max-height: 100%;
+}

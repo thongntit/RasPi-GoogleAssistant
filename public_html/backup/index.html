@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<meta charset="utf-8" />
+<html>
+
+<head>
+    <title>Demo trang index</title>
+    <link rel="stylesheet" type="text/css" href="style.css" />
+    <script type="text/javascript" src="jquery-3.2.1.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            $(".sub_menu").hide();
+            $("#search_input").hide();
+            $("#login_dropdown").hide();
+            $(".menu").click(function () {
+                $(this).next().slideToggle();
+            });
+            $("#search_button").hover(function(){
+                $("#search_input").animate({width:'toggle',},500);
+            });
+            $("#login_box").click(function(){
+                $("#login_dropdown").slideToggle();
+            });
+        });
+    </script>
+</head>
+
+<body>
+    <div id="wrapper">
+        <div id="header">
+            <div id="logo"><a href="#"><img id="img_fox" src="https://image.flaticon.com/icons/svg/326/326933.svg"></a></div>
+            <div id="search_box">
+                <form>
+                    <a id="search_button"><img src="https://image.flaticon.com/icons/svg/51/51923.svg"></a>
+                    <input type="text" id="search_input" name="search_input" placeholder="Nhập nội dung cần tìm kiếm">
+                    
+                </form>
+            </div>
+            <div id="login_box">
+                    <a href="#" ><img src="items/login.png"></a>
+                    <div id="login_dropdown" class="dropdown-content">
+                        <input type="text" name="login_id" placeholder="ID">
+                        <input type="text" name="login_pass" placeholder="Password">
+                    </div>
+            </div>
+        </div>
+        <div id="banner">banner</div>
+        <div id="body">
+            <div id="menu_left">
+                <div class="menu">AVR</div>
+                <div class="sub_menu">
+                    <a href="#">ATMEGA16</a>
+                    <a href="#">ATMEGA128</a>
+                    <a href="#">ATMEGA328</a>
+                    <a href="#">ATTINY</a>
+                </div>
+
+                <div class="menu">ARM</div>
+                <div class="sub_menu">
+                    <a href="#">STM32F0</a>
+                    <a href="#">STM32F1</a>
+                    <a href="#">STM32F4</a>
+                    <a href="#">TM4C123GH6PM</a>
+                </div>
+
+                <div class="menu">STM</div>
+                <div class="sub_menu">
+                    <a href="#">STM8S</a>
+                    <a href="#">STM8L</a>
+                    <a href="#">STM8K</a>
+                </div>
+            </div>
+            <div id="contents">
+                <div id="news1">news1</div>
+                <div id="news2">news2</div>
+                <div id="news3">news3</div>
+            </div>
+            <div id="menu_right">
+                <div id="hot_news">Tin nổi bật</div>
+                <div id="events">Thông tin sự kiện</div>
+                <div id="new_products">Sản phẩm mới</div>
+            </div>
+        </div>
+        <div id="footer">footer</div>
+    </div>
+</body>
+
+</html>
